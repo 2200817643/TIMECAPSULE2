@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/feng"
+        android:title="创建胶囊" />
+
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/sao"
+        android:title="参与封存/解封" />
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/cha"
+        android:title="我的胶囊" />
+
+</menu>
