@@ -3,17 +3,17 @@
 
 
     <item
-        android:id="@+id/navigation_notifications"
+        android:id="@+id/seal_up_or_off"
         android:icon="@drawable/feng"
         android:title="创建胶囊" />
 
 
     <item
-        android:id="@+id/navigation_dashboard"
+        android:id="@+id/join_sealing"
         android:icon="@drawable/sao"
         android:title="参与封存/解封" />
     <item
-        android:id="@+id/navigation_home"
+        android:id="@+id/my_capsules"
         android:icon="@drawable/cha"
         android:title="我的胶囊" />
 
