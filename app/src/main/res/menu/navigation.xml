@@ -5,7 +5,7 @@
     <item
         android:id="@+id/seal_up_or_off"
         android:icon="@drawable/feng"
-        android:title="创建胶囊" />
+        android:title="封存/解封胶囊" />
 
 
     <item
